@@ -5,7 +5,7 @@
 
 The Open Maturity Model (OMM) attempts to define open attributes, and a means for assessing the behaviors within a community of practice responsible for the design, development, and distribution of open works.
 
-Importantly, the OMM is not designed to assess the *openness* of any specific artifact (object, software, OER, etc.) claimed to be open—there are plenty of licenses which can be used to assess the openness of an object—rather, the model assesses the presence and authenticity of behavior within an organization/community that creates and manages artifact.
+Importantly, the OMM is not designed to assess the *openness* of any specific artifact (object, software, resource, content, etc.) claimed to be open—there are plenty of licenses which can be used to assess the openness of an object—rather, the model assesses the presence and authenticity of behavior within an organization/community that creates and manages artifact.
 
 ## Scope of Work
 
