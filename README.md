@@ -29,3 +29,6 @@ The following have influenced and informed the development of the OMM
 3. Masson, Patrick. "Openness Index." Apereo WIki. Apereo Foundation, 14 Feb. 2011. Web. 8 May 2016. <<https://wiki.jasig.org/display/2398/Openness+Index>>. 
 4. Thorn, Michelle. "Openwashing." Michelle Thorn. Michelle Thorn, 14 Mar. 2009. Web. 8 May 2016. <<http://michellethorne.cc/2009/03/openwashing/>>. 
 5. Waugh, Pai. "Openness Rating: How Open Is Your Software Project?" OSS Watch. OSS Watch, 11 Dec. 2014. Web. 8 May 2016. <<http://oss-watch.ac.uk/apps/openness/>>. 
+
+Copyright (c) 2016 Patrick Masson, Attribution 4.0 International (CC BY 4.0)
+
